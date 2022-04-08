@@ -1,1 +1,1 @@
-# AQAJava
+# AQAJava_Courses
